@@ -2,7 +2,7 @@
 
 header {
     padding: 30px 0;
-    background: url("xGettyImages-158746858.jpg.pagespeed.ic_.fkI5mAf_AN-800x445.jpg");
+    background: url("Untitled\ design.png");
     border-bottom: 0px solid black;
     
 }
@@ -11,6 +11,10 @@ header {
     position: relative;
     width: 950px;
     margin: 0 auto;
+    ;
+}
+.logo {
+    margin: 0 0 100px 160px;
 }
 
 nav{
